@@ -71,6 +71,8 @@ int main(int argc, char *argv[]){
     for (it = TestMap_out.begin(); it != TestMap_out.end(); ++it) {
         PeptidesStruct *ps = it->second;
         cout << it->first << '\t' << ps->mol_name << '\t' << ps->AA_length << endl; 
+        
+        delete ps;
     } 
     cout << endl; 
 }
