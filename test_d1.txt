@@ -1,0 +1,15 @@
+Linear peptide	KLEDLERDL	HLA-A*02:01	9
+Linear peptide	EVMPVSMAK	HLA-A*03:01	9
+Linear peptide	EVMPVSMAK	HLA-A*11:01	9
+Linear peptide	KTFPPTEPK	HLA-A*03:01	9
+Linear peptide	KTFPPTEPK	HLA-A*11:01	9
+Linear peptide	ATFSVPMEK	HLA-A*03:01	9
+Linear peptide	ATFSVPMEK	HLA-A*11:01	9
+Linear peptide	KVIQPRVEK	HLA-A*03:01	9
+Linear peptide	KVIQPRVEK	HLA-A*11:01	9
+Linear peptide	RLYYDSMSY	HLA-A*03:01	9
+Linear peptide	RLYYDSMSY	HLA-A*11:01	9
+Linear peptide	AVLQSGFRK	HLA-A*03:01	9
+Linear peptide	AVLQSGFRK	HLA-A*11:01	9
+Linear peptide	AVDPAKAYK	HLA-A*03:01	9
+Linear peptide	AVDPAKAYK	HLA-A*11:01	9
